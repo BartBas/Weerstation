@@ -2,10 +2,7 @@
 #include <stdio.h>
 int main()
 {
-<<<<<<< HEAD
-	printf("Hello, Galaxy!");
-=======
-	printf("Hello, Solarsystem!");
->>>>>>> 21d73e44f3de1d6f2018b93dd29049c2dba50ec3
+	printf("Hello, Galaxy and Solarsystem!");
+	printf("Feature-2")
 	return 0;
 }
